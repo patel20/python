@@ -4,3 +4,8 @@
 # The program should accept decimals as inputs.
 
 # Write code here
+# aayushya Patel
+x = int(input("What should x be?:"))
+y = int(input("What should y be?:"))
+z = x + y
+print(x, "+", y, "=", z)
