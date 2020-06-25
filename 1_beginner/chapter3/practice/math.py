@@ -5,3 +5,6 @@
 # Print the result.
 
 # write your code here
+x = int(input("Enter a number:"))
+y = x / 5
+print(y)
